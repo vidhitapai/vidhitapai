@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vidhita</h1>
-<h3 align="center">A passionate and vivacious Computer Engineering student,</h3>
+<h3 align="center">A passionate and vivacious Computer Engineering student</h3>
 
-- 🌱 I’m currently learning **Node.JS and Networking**
+- 🌱 I’m currently learning: **Node.JS and Networking**
 
-- 📫 How to reach me **github@ironhide.33mail.com**
+- 📫 How to reach me: **github@ironhide.33mail.com**
 
-- ⚡ Fun fact **I am a linguaphile ;)**
+- ⚡ Fun fact: **I am a linguaphile ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
