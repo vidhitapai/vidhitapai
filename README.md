@@ -2,6 +2,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/vidhitapai/vidhitapai/blob/main/images/hi.gif" width="30px"></h2>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C366FF&multiline=true&centered=true&lines&duration=4500&=Welcome+to+vidhitapai's+Github+profile)](https://git.io/typing-svg)
+
 <h3 align="center">I'm Vidhita, a passionate and vivacious Computer Engineering student</h3>
 
 - 🌱 I’m currently learning: **Node.JS and Networking**
