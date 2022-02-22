@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vidhita</h1>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
 <h3 align="center">A passionate and vivacious Computer Engineering student</h3>
 
 - 🌱 I’m currently learning: **Node.JS and Networking**
@@ -19,7 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhitapai&show_icons=true&locale=en&layout=compact" alt="vidhitapai" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhitapai&show_icons=true&locale=en" alt="vidhitapai" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhitapai&" alt="vidhitapai" /></p>
 
